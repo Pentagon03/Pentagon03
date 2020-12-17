@@ -1,4 +1,4 @@
-### Hi there 👋 I am Kusin
+### Hi there 👋 I am Kyungmo Ku.
 
 ## I am a Competitive Programmer
 
