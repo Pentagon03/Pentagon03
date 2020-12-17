@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kyungmo Ku.
 
-## I enjoy Algorithm Problem Solving.
+#### I enjoy Algorithm Problem Solving.
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pentagon03)](https://solved.ac/pentagon03)
 
