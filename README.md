@@ -1,5 +1,9 @@
 ### Hi there 👋 I am Kusin
 
+My Boj.kr ID is pentagon03
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kinetic27)](https://solved.ac/kinetic27)
+
 <!--
 **Kusin/Kusin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+watching https://kinetic.codes/2020/07/14/git-profile/
+ctrl + shift + R to see animation in the solved.ac badge again
 -->
