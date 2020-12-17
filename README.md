@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kusin
 
-My Boj.kr ID is pentagon03
+## I am a Competitive Programmer
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=pentagon03)](https://solved.ac/pentagon03)
 
