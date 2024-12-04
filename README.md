@@ -5,7 +5,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pentagon03)](https://solved.ac/pentagon03)
 
-[![wakatime](https://wakatime.com/badge/user/b8117023-24be-4a66-8399-1f50a59273ef/project/905175ac-7aa0-47d1-b6c4-07f5d2605ded.svg)](https://wakatime.com/badge/user/b8117023-24be-4a66-8399-1f50a59273ef/project/905175ac-7aa0-47d1-b6c4-07f5d2605ded)
+[![wakatime](https://wakatime.com/badge/user/b8117023-24be-4a66-8399-1f50a59273ef.svg)](https://wakatime.com/@b8117023-24be-4a66-8399-1f50a59273ef)
 
 <!--
 **Pentagon03/Pentagon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
